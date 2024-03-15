@@ -5,32 +5,24 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
-        "footer-2": {
+        "text_9MeaRU": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Bach's HiFi Produkter",
+            "subtext": "<p>Prinsegata 19<br\/>3256 Larvik<br\/>Telefon: 911 03 044<br\/>post@bachshifi.no<\/p>"
+          }
+        },
+        "text_jBzYKx": {
+          "type": "text",
+          "settings": {
+            "heading": "Åpningstider",
+            "subtext": "<p>Mandag-Onsdag 10-16<br\/>Torsdag 10-18<br\/>Fredag 10-16<br\/>Lørdag 10-13<\/p>"
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "text_9MeaRU",
+        "text_jBzYKx"
       ],
       "settings": {
         "color_scheme": "scheme-4",

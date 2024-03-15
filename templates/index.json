@@ -56,7 +56,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Velkommen innom for en vellydende handel!<\/strong>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text": {
@@ -82,8 +82,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "Nye produkter i butikken",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -135,6 +135,7 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -148,6 +149,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
