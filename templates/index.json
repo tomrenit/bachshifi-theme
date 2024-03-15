@@ -55,14 +55,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "<strong>Velkommen innom for en vellydende handel!<\/strong>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk.​ Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre.God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen. Vi har produkter i alle prisklasser, som spenner fra bærbare systemertil store High End systemer.​ Lidenskapen for kvalitetslyd har vært med fra starten.God lyd og service står fortsatt i fokus!<\/p>"
           }
         }
       },
