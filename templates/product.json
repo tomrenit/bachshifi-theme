@@ -133,16 +133,7 @@
             "page": ""
           }
         },
-        "collapsible_row_mx4wE7": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_Ftnpxg": {
+        "collapsible_row_yb9WDP": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
@@ -155,8 +146,7 @@
       "block_order": [
         "collapsible_row_UAJehF",
         "collapsible_row_PMWMAt",
-        "collapsible_row_mx4wE7",
-        "collapsible_row_Ftnpxg"
+        "collapsible_row_yb9WDP"
       ],
       "settings": {
         "caption": "",
