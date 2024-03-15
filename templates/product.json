@@ -36,12 +36,12 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "collapsible_tab_ANkBW4": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Tekniske data",
             "icon": "none",
