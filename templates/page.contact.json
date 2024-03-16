@@ -2,7 +2,83 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9mzrxb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YcFhk7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hva er vi?",
+            "heading_size": "h1"
+          }
+        },
+        "text_zwz63q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk.<br\/>​Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik.<br\/>Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen<br\/>lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre.<br\/>God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen.<br\/>Vi har produkter i alle prisklasser, som spenner fra bærbare systemer<br\/>til store High End systemer.<br\/>​Lidenskapen for kvalitetslyd har vært med fra starten.<br\/>God lyd og service står fortsatt i fokus!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YcFhk7",
+        "text_zwz63q"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_hTUgPj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_86nmzN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image2-1.jpg",
+            "title": "Tom Bach",
+            "text": "<p>Som eier  og med utrolige 30 år i bransjen bestitter Tom en produktkunskap uten sidestykke. Alltid smilende i butikken og med sansen for et velspillende stereoanlegg. Stikk innom han i butikken da vel, den er proppfull av mye morsomt utstyr. Og vi er naturligvis klare til å gi deg en opplevelse du sent vil glemme!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hVy6KR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image1-1.jpg",
+            "title": "Christoffer Hansson",
+            "text": "<p>Med et hjerte for god film-lyd i flere kanaler og solid erfaring fra Soundgarden er Christoffer mannen som kan trylle frem en ekstrem kino opplevelse hjemme hos deg. Men vi må ikke glemme at han har meget god kompetanse også i stereo. Han styrer også vårt showrom utenfor Molde-Ålesund og kan kontaktes dersom det ønskes en demo.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_86nmzN",
+        "column_hVy6KR"
+      ],
+      "settings": {
+        "title": "Hvem er vi?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -10,7 +86,7 @@
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": "",
+        "heading": "Ta kontakt",
         "heading_size": "h1",
         "color_scheme": "scheme-1",
         "padding_top": 36,
@@ -20,6 +96,8 @@
   },
   "order": [
     "main",
+    "rich_text_9mzrxb",
+    "multicolumn_hTUgPj",
     "form"
   ]
 }
