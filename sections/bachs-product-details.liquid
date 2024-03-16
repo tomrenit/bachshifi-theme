@@ -1,0 +1,110 @@
+{% assign hasExternalInfo = false %}
+{% if product.metafields.custom.produktlink.value != blank %}
+  {% assign hasExternalInfo = true %}
+{% endif %}
+{% if product.metafields.custom.brukermanual.value != blank %}
+  {% assign hasExternalInfo = true %}
+{% endif %}
+
+<div class="color-{{ section.settings.color_scheme }} gradient">
+  <div class="collapsible-content collapsible-section-layout isolate page-width">
+    <div class="collapsible-content__wrapper section-{{ section.id }}-padding content-container  gradient">
+      <div class="grid grid--1-col grid--2-col-tablet collapsible-content__grid {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
+        <div class="grid__item">
+          {% if product.metafields.custom.tekniske_data.value != blank %}
+            <div
+              class="accordion"
+            >
+              <details
+                id="Details-links-{{ section.id }}"
+              >
+                <summary id="Summary-links-{{ section.id }}">
+                  <h3 class="accordion__title inline-richtext h4">Tekniske data</h3>
+                  {% render 'icon-caret' %}
+                </summary>
+                <div
+                  class="accordion__content rte"
+                  id="CollapsibleAccordion-links-{{ section.id }}"
+                  role="region"
+                  aria-labelledby="Summary-links-{{ section.id }}"
+                >
+                  {{ product.metafields.custom.tekniske_data | metafield_tag }}
+                </div>
+              </details>
+            </div>
+          {% endif %}
+          {% if hasExternalInfo %}
+            <div
+              class="accordion"
+            >
+              <details
+                id="Details-links-{{ section.id }}"
+              >
+                <summary id="Summary-links-{{ section.id }}">
+                  <h3 class="accordion__title inline-richtext h4">Ekstern info</h3>
+                  {% render 'icon-caret' %}
+                </summary>
+                <div
+                  class="accordion__content rte"
+                  id="CollapsibleAccordion-links-{{ section.id }}"
+                  role="region"
+                  aria-labelledby="Summary-links-{{ section.id }}"
+                >
+                  {% if product.metafields.custom.produktlink.value != blank %}
+                    {{
+                      'Produkt'
+                      | link_to: product.metafields.custom.produktlink.value,
+                        target: '_blank',
+                        rel: 'noreferrer noopener'
+                    -}}
+                    <br>
+                  {% endif %}
+                  {% if product.metafields.custom.brukermanual.value != blank %}
+                    {{
+                      'Brukermanual'
+                      | link_to: product.metafields.custom.brukermanual.value,
+                        target: '_blank',
+                        rel: 'noreferrer noopener'
+                    -}}
+                    <br>
+                  {% endif %}
+                </div>
+              </details>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Bachs product details",
+  "tag": "section",
+  "class": "section",
+  "disabled_on": {
+    "groups": ["header", "footer"]
+  },
+  "settings": [
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "scheme-1"
+    },
+    {
+      "type": "checkbox",
+      "id": "open_first_collapsible_row",
+      "default": false,
+      "label": "t:sections.collapsible_content.settings.open_first_collapsible_row.label"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Bachs product details",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
