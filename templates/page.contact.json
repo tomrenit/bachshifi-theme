@@ -68,6 +68,7 @@
       ],
       "settings": {
         "title": "Hvem er vi?",
+        "page-width-narrow": true,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "circle",
