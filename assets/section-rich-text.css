@@ -10,7 +10,7 @@
 
 .rich-text:not(.rich-text--full-width) .rich-text__wrapper {
   margin: auto;
-  width: calc(100% - 8rem / var(--font-body-scale));
+  /* width: calc(100% - 8rem / var(--font-body-scale)); */
 }
 
 .rich-text__blocks {
@@ -30,15 +30,17 @@
     justify-content: flex-end;
   }
 
-  .rich-text__blocks {
+  /* .rich-text__blocks {
     max-width: 50rem;
-  }
+    max-width: 72.6rem;
+    padding: 0;
+  } */
 }
 
 @media screen and (min-width: 990px) {
-  .rich-text__blocks {
+  /* .rich-text__blocks {
     max-width: 78rem;
-  }
+  } */
 }
 
 .rich-text__blocks * {

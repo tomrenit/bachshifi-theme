@@ -17,7 +17,7 @@
 }
 
 @media screen and (max-width: 989px) {
-  .multicolumn .page-width {
+  .multicolumn .page-width:not(.page-width--narrow) {
     padding-left: 0;
     padding-right: 0;
   }
