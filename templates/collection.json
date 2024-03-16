@@ -1,11 +1,18 @@
 {
   "sections": {
+    "breadcrumbs_EWWUPQ": {
+      "type": "breadcrumbs",
+      "settings": {
+        "opacity": 100,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "scheme-1"
       }
     },
@@ -25,12 +32,13 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "breadcrumbs_EWWUPQ",
     "banner",
     "product-grid"
   ]
