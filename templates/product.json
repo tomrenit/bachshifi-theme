@@ -67,7 +67,7 @@
     "bachs_product_details_WLUAFP": {
       "type": "bachs-product-details",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "open_first_collapsible_row": false
       }
     },
