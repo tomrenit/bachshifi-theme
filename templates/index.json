@@ -162,85 +162,49 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "brands_kVkghg": {
+      "type": "brands",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "brand_fbaPfi": {
+          "type": "brand",
           "settings": {
             "image": "shopify:\/\/shop_images\/arcam-logo.png",
-            "title": "",
-            "text": "",
-            "link_label": "test",
-            "link": "shopify:\/\/products\/rega-planar-8-apheta3-mc"
+            "link": "https:\/\/www.arcam.co.uk\/",
+            "open_in_new_tab": true
           }
         },
-        "column2": {
-          "type": "column",
+        "brand_8NNykX": {
+          "type": "brand",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/images.png",
+            "link": "https:\/\/www.marklevinson.com\/",
+            "open_in_new_tab": true
           }
         },
-        "column3": {
-          "type": "column",
+        "brand_h8tiQq": {
+          "type": "brand",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_rLBmj9": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_QYDw8A": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GPnwex": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/230-2305780-jbl-logo-black-and-white-png-download-jbl.png",
+            "link": "http:\/\/jblsynthesis.com\/",
+            "open_in_new_tab": true
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3",
-        "column_rLBmj9",
-        "column_QYDw8A",
-        "column_GPnwex"
+        "brand_fbaPfi",
+        "brand_8NNykX",
+        "brand_h8tiQq"
       ],
       "settings": {
-        "title": "",
+        "title": "Våre merker",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "scheme-4",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -253,6 +217,6 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "brands_kVkghg"
   ]
 }
