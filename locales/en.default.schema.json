@@ -1137,8 +1137,15 @@
         "header__6": {
           "info": "To add a language, go to your [language settings.](\/admin\/settings\/languages)"
         },
+        "header__7": {
+          "content": "Cart",
+          "info": "Show the cart icon in the header. Hacky way to \"disable\" the cart is to just hide it."
+        },
         "enable_language_selector": {
           "label": "Enable language selector"
+        },
+        "enable_cart": {
+          "label": "Show cart icon"
         },
         "margin_bottom": {
           "label": "Bottom margin"

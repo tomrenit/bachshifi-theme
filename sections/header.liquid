@@ -316,7 +316,7 @@
             {% render block %}
         {%- endcase -%}
       {%- endfor -%}
-
+      {%- if section.settings.enable_cart -%}
       <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
         {%- liquid
           if cart == empty
@@ -335,6 +335,7 @@
           </div>
         {%- endif -%}
       </a>
+      {%- endif -%}
     </div>
   </header>
 </{% if section.settings.sticky_header_type != 'none' %}sticky-header{% else %}div{% endif %}>
@@ -620,6 +621,17 @@
       "id": "enable_language_selector",
       "default": true,
       "label": "t:sections.header.settings.enable_language_selector.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.header.settings.header__7.content",
+      "info": "t:sections.header.settings.header__7.info"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_cart",
+      "default": true,
+      "label": "t:sections.header.settings.enable_cart.label"
     },
     {
       "type": "header",
