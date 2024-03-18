@@ -4,7 +4,7 @@
 {%- style -%}
   @media screen and (max-width: 749px) {
     .collection-hero--with-image .collection-hero__inner {
-      padding-bottom: calc({{ settings.media_shadow_vertical_offset | at_least: 0 }}px + 2rem);
+      padding-bottom: calc({{settings.media_shadow_vertical_offset | at_least: 0}}px + 2rem);
     }
   }
 {%- endstyle -%}
@@ -55,6 +55,12 @@
     {
       "type": "paragraph",
       "content": "t:sections.main-collection-banner.settings.paragraph.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_collection_title",
+      "default": true,
+      "label": "t:sections.main-collection-banner.settings.show_collection_title.label"
     },
     {
       "type": "checkbox",
