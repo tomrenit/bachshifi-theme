@@ -9,20 +9,37 @@
           "type": "text",
           "settings": {
             "heading": "Bach's HiFi Produkter",
-            "subtext": "<p>Prinsegata 19<br\/>3256 Larvik<br\/>Telefon: 911 03 044<br\/>post@bachshifi.no<\/p>"
+            "subtext": "<p>Butikken vår i Larvik, med alt av godsaker<\/p><p>Prinsegata 19<br\/>3256 Larvik<br\/>Telefon: 911 03 044<br\/>post@bachshifi.no<\/p><p><strong>Åpningstider<\/strong><br\/>Mandag-Onsdag 10-16<br\/>Torsdag 10-18<br\/>Fredag 10-16<br\/>Lørdag 10-13<\/p>"
           }
         },
         "text_jBzYKx": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "Åpningstider",
             "subtext": "<p>Mandag-Onsdag 10-16<br\/>Torsdag 10-18<br\/>Fredag 10-16<br\/>Lørdag 10-13<\/p>"
+          }
+        },
+        "text_WYphmF": {
+          "type": "text",
+          "settings": {
+            "heading": "Bach's avd Møre og Romsdal",
+            "subtext": "<p>Vår lokale avdeling og demo-rom i Møre og Romsdal<\/p><p>Lidvegen 65<br\/>6393 Tomrefjord<br\/>Telefon: 458 63 504<br\/>christoffer@bachshifi.no<\/p>"
+          }
+        },
+        "text_d9QRbP": {
+          "type": "text",
+          "settings": {
+            "heading": "The Stereo Shop",
+            "subtext": "<p>Nettbutikk vår, sjekk den ut på <a href=\"https:\/\/www.thestereoshop.no\/\" target=\"_blank\" title=\"https:\/\/www.thestereoshop.no\/\">https:\/\/www.thestereoshop.no\/<\/a><\/p>"
           }
         }
       },
       "block_order": [
         "text_9MeaRU",
-        "text_jBzYKx"
+        "text_jBzYKx",
+        "text_WYphmF",
+        "text_d9QRbP"
       ],
       "settings": {
         "color_scheme": "scheme-4",
