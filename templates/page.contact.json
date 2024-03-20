@@ -21,7 +21,7 @@
         "text_zwz63q": {
           "type": "text",
           "settings": {
-            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk.<br\/>​Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik.<br\/>Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen<br\/>lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre.<br\/>God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen.<br\/>Vi har produkter i alle prisklasser, som spenner fra bærbare systemer<br\/>til store High End systemer.<br\/>​Lidenskapen for kvalitetslyd har vært med fra starten.<br\/>God lyd og service står fortsatt i fokus!<\/p>"
+            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk. ​Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<\/p><p>Vår avdeling i Møre og Romsdal fungerer som vårt demo-rom og base for Christoffer som gjør hjemmebesøk og kalibrering.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre. God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen.<br\/>Vi har produkter i alle prisklasser, som spenner fra bærbare systemer<br\/>til store High End systemer. ​Lidenskapen for kvalitetslyd har vært med fra starten.<br\/>God lyd og service står fortsatt i fokus!<\/p><p>I nyere tid har vi også startet nettbutikken https:\/\/www.thestereoshop.no\/ hvor du kan enkelt kan handle hos oss døgnet rundt.<\/p><p><\/p>"
           }
         }
       },
@@ -60,11 +60,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_KtzNxC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image01.jpg",
+            "title": "Geir Arne Nilsen",
+            "text": "<p>Med solid erfaring på high-end og med bakgrunn fra Hifi-klubben er Geir Arne den mest nysgjerrige når det gjelder tekniske aspekter. Dette gjenspeilers seg også i bruk av analyse-verktøy for å få ditt lydsystem til å spille så optimalt som mulig. Lurer du på noen tekniske egenskaper på høyttalere eller elektronikk er dette mannen å ringe.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_86nmzN",
-        "column_hVy6KR"
+        "column_hVy6KR",
+        "column_KtzNxC"
       ],
       "settings": {
         "title": "Hvem er vi?",
