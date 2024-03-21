@@ -252,6 +252,14 @@
             "link": "http:\/\/www.parasound.com\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_4DkYPd": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rega_1.jpg",
+            "link": "http:\/\/www.rega.co.uk\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -265,7 +273,8 @@
         "brand_HE468z",
         "brand_EeF7W8",
         "brand_Pjrj36",
-        "brand_xVUrnt"
+        "brand_xVUrnt",
+        "brand_4DkYPd"
       ],
       "settings": {
         "title": "Våre merker",
