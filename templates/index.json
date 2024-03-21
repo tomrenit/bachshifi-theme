@@ -236,6 +236,22 @@
             "link": "https:\/\/isoacoustics.com\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_Pjrj36": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lumin.png",
+            "link": "https:\/\/www.luminmusic.com\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_xVUrnt": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/parasound.jpg",
+            "link": "http:\/\/www.parasound.com\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -247,7 +263,9 @@
         "brand_hWdHCH",
         "brand_j4D49J",
         "brand_HE468z",
-        "brand_EeF7W8"
+        "brand_EeF7W8",
+        "brand_Pjrj36",
+        "brand_xVUrnt"
       ],
       "settings": {
         "title": "Våre merker",
