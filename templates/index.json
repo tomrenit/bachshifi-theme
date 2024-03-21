@@ -260,6 +260,22 @@
             "link": "http:\/\/www.rega.co.uk\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_Xmnhc9": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/revel_4c9bdb79-68aa-4fac-8999-d4cf5180cf1b.jpg",
+            "link": "https:\/\/www.revelspeakers.com\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_jNgnUT": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sonus-faber.jpg",
+            "link": "https:\/\/www.sonusfaber.com\/en\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -274,7 +290,9 @@
         "brand_EeF7W8",
         "brand_Pjrj36",
         "brand_xVUrnt",
-        "brand_4DkYPd"
+        "brand_4DkYPd",
+        "brand_Xmnhc9",
+        "brand_jNgnUT"
       ],
       "settings": {
         "title": "Våre merker",
