@@ -188,12 +188,21 @@
             "link": "http:\/\/jblsynthesis.com\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_p8AVzP": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Audiovector_Logo_White.png",
+            "link": "https:\/\/audiovector.com\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
         "brand_fbaPfi",
         "brand_8NNykX",
-        "brand_h8tiQq"
+        "brand_h8tiQq",
+        "brand_p8AVzP"
       ],
       "settings": {
         "title": "Våre merker",
@@ -215,6 +224,7 @@
       "settings": {
         "page": "besok-oss",
         "heading_size": "h1",
+        "page_width_narrow": false,
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
