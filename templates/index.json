@@ -276,6 +276,14 @@
             "link": "https:\/\/www.sonusfaber.com\/en\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_NVPkne": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-velodyne-white.png",
+            "link": "https:\/\/www.velodyneacoustics.com\/en\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -292,7 +300,8 @@
         "brand_xVUrnt",
         "brand_4DkYPd",
         "brand_Xmnhc9",
-        "brand_jNgnUT"
+        "brand_jNgnUT",
+        "brand_NVPkne"
       ],
       "settings": {
         "title": "Våre merker",
