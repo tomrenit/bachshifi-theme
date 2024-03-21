@@ -196,13 +196,58 @@
             "link": "https:\/\/audiovector.com\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_pt9bNY": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/atlascables.png",
+            "link": "https:\/\/www.atlascables.com\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_hWdHCH": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/aurender_3a348cd4-8b66-4bdf-9507-8f08c2a719ac.jpg",
+            "link": "https:\/\/aurender.com\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_j4D49J": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_aa62aa03-4ddc-4ecb-accd-cfb6d71015a9.png",
+            "link": "https:\/\/no.harmankardon.com\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_HE468z": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ieast.png",
+            "link": "https:\/\/ieast.pl\/produkty\/",
+            "open_in_new_tab": true
+          }
+        },
+        "brand_EeF7W8": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/isoacoustics.png",
+            "link": "https:\/\/isoacoustics.com\/",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
         "brand_fbaPfi",
         "brand_8NNykX",
         "brand_h8tiQq",
-        "brand_p8AVzP"
+        "brand_p8AVzP",
+        "brand_pt9bNY",
+        "brand_hWdHCH",
+        "brand_j4D49J",
+        "brand_HE468z",
+        "brand_EeF7W8"
       ],
       "settings": {
         "title": "Våre merker",
