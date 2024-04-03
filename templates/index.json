@@ -207,6 +207,7 @@
         },
         "brand_hWdHCH": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/aurender_3a348cd4-8b66-4bdf-9507-8f08c2a719ac.jpg",
             "link": "https:\/\/aurender.com\/",
@@ -223,6 +224,7 @@
         },
         "brand_HE468z": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ieast.png",
             "link": "https:\/\/ieast.pl\/produkty\/",
@@ -239,6 +241,7 @@
         },
         "brand_Pjrj36": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/lumin.png",
             "link": "https:\/\/www.luminmusic.com\/",
@@ -255,6 +258,7 @@
         },
         "brand_4DkYPd": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/rega_1.jpg",
             "link": "http:\/\/www.rega.co.uk\/",
@@ -271,6 +275,7 @@
         },
         "brand_jNgnUT": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/sonus-faber.jpg",
             "link": "https:\/\/www.sonusfaber.com\/en\/",
