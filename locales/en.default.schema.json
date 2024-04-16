@@ -1819,6 +1819,9 @@
           },
           "options__3": {
             "label": "Square"
+          },
+          "options__4": {
+            "label": "Square (scaled)"
           }
         },
         "show_secondary_image": {

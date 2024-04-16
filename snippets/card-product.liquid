@@ -34,6 +34,10 @@
     if ratio == 0 or ratio == null
       assign ratio = 1
     endif
+    assign scaled = 0
+    if media_aspect_ratio == 'square-scaled'
+      assign scaled = 1
+    endif
   -%}
   <div class="card-wrapper product-card-wrapper underline-links-hover">
     <div
@@ -49,12 +53,17 @@
       style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
     >
       <div
-        class="card__inner {% if settings.card_style == 'standard' %}color-{{ settings.card_color_scheme }} gradient{% endif %}{% if card_product.featured_media or settings.card_style == 'standard' %} ratio{% endif %}"
+        class="
+          card__inner
+          {% if card_product.featured_media %} media--transparent{% elsif settings.card_style == 'standard' %} gradient{% endif %}
+          {% if settings.card_style == 'standard' %} color-{{ settings.card_color_scheme }}{% endif %}
+          {% if card_product.featured_media or settings.card_style == 'standard' %} ratio{% endif %}
+        "
         style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
       >
         {%- if card_product.featured_media -%}
           <div class="card__media{% if image_shape and image_shape != 'default' %} shape--{{ image_shape }} color-{{ settings.card_color_scheme }} gradient{% endif %}">
-            <div class="media media--transparent media--hover-effect">
+            <div class="media media--transparent media--hover-effect {% if scaled == 1 %} scaled{% endif %}">
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img
                 srcset="
