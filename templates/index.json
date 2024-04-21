@@ -82,12 +82,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nye produkter i butikken",
+        "title": "Utvalgte produkter",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "utvalgte-produkter",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
