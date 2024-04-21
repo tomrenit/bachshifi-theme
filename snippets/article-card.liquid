@@ -37,16 +37,22 @@
       style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
     >
       <div
-        class="card__inner {% if settings.blog_card_style == 'standard' %} color-{{ settings.blog_card_color_scheme }} gradient{% endif %}{% if article.image and show_image or settings.blog_card_style == 'standard' %} ratio{% endif %}"
+        class="
+          card__inner
+          {% if article.image and show_image %} media--transparent{% elsif settings.blog_card_style == 'standard' %} gradient{% endif %}
+          {% if settings.blog_card_style == 'standard' %} color-{{ settings.blog_card_color_scheme }}{% endif %}
+          {% if article.image and show_image or settings.blog_card_style == 'standard' %} ratio{% endif %}
+        "
         style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;"
       >
         {%- if show_image == true and article.image -%}
           <div class="article-card__image-wrapper card__media">
             <div
               class="article-card__image media media--hover-effect"
-              {% if section.settings.media_height == 'adapt' %}
-                style="padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;"
-              {% endif %}
+              style="
+                {%- if section.settings.media_height == 'adapt' -%}padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;{%- endif -%}
+                background-color: inherit;
+              "
             >
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img
@@ -68,6 +74,7 @@
                 {% endunless %}
                 width="{{ article.image.width }}"
                 height="{{ article.image.height }}"
+                style="object-fit: scale-down;"
               >
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
             </div>
