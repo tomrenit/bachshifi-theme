@@ -289,6 +289,14 @@
             "link": "https:\/\/www.velodyneacoustics.com\/en\/",
             "open_in_new_tab": true
           }
+        },
+        "brand_Gf7Vfm": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_7e410a04-8686-42b1-89c7-398816b4f69d.png",
+            "link": "",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -306,7 +314,8 @@
         "brand_4DkYPd",
         "brand_Xmnhc9",
         "brand_jNgnUT",
-        "brand_NVPkne"
+        "brand_NVPkne",
+        "brand_Gf7Vfm"
       ],
       "settings": {
         "title": "Våre merker",
