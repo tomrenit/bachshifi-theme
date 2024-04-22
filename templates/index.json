@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Nyhet! JBL Classic elektronikk<\/strong>",
+            "heading": "<strong>Nyhet! Audiovector!<\/strong>",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "JBL har lansert mer elektronikk i Classic Series, inkludert CD350 CD-spiller, SA550 integrert forsterker, MP350 Hi-Res streamer og TT350 platespiller.",
+            "text": "Audiovector, nytt høyttalermerke hos Bachs HiFI.",
             "text_style": "body"
           }
         },
@@ -35,8 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/jblsa750-tt350-l100classic-orangegrills_orig.jpg",
-        "image_2": "shopify:\/\/shop_images\/jbl-sa750-butikk.jpg",
+        "image": "shopify:\/\/shop_images\/AUDIOVECTOR_0360234.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
