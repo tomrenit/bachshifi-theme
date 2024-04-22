@@ -249,6 +249,7 @@
         },
         "brand_xVUrnt": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/parasound.jpg",
             "link": "http:\/\/www.parasound.com\/",
