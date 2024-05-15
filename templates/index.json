@@ -36,7 +36,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AUDIOVECTOR_TRAPEZ58320_c-scaled.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
