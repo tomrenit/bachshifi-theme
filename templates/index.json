@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Nyhet! Audiovector!<\/strong>",
+            "heading": "<strong>Nyhet! JBL Stage 2 og JBL MA elektronikk!</strong>",
             "heading_size": "h0"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Les mer",
-            "button_link_1": "https:\/\/bachshifi.myshopify.com\/blogs\/news\/nyhet-audiovector-handmade-in-denmark",
+            "button_link_1": "https://bachshifi.myshopify.com/blogs/news/nyhet-audiovector-handmade-in-denmark",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/AUDIOVECTOR_TRAPEZ58499_c-scaled.jpg",
+        "image": "shopify://shop_images/LS_JBL_Stage_2_280FWHT_InSituationGrillOff_PDPPage_00983.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
@@ -63,14 +63,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Velkommen innom for en vellydende handel!<\/strong>",
+            "heading": "<strong>Velkommen innom for en vellydende handel!</strong>",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk.​ Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre.God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen. Vi har produkter i alle prisklasser, som spenner fra bærbare systemertil store High End systemer.​ Lidenskapen for kvalitetslyd har vært med fra starten.God lyd og service står fortsatt i fokus!<\/p>"
+            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk.​ Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<br/><br/>Forskjellen på god og dårlig lyd er noe alle kan høre.God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen. Vi har produkter i alle prisklasser, som spenner fra bærbare systemertil store High End systemer.​ Lidenskapen for kvalitetslyd har vært med fra starten.God lyd og service står fortsatt i fokus!</p>"
           }
         }
       },
@@ -162,7 +162,7 @@
         "heading": "",
         "heading_size": "h1",
         "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-1",
@@ -176,40 +176,40 @@
         "brand_fbaPfi": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/arcam-logo.png",
-            "link": "https:\/\/www.arcam.co.uk\/",
+            "image": "shopify://shop_images/arcam-logo.png",
+            "link": "https://www.arcam.co.uk/",
             "open_in_new_tab": true
           }
         },
         "brand_8NNykX": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/images.png",
-            "link": "https:\/\/www.marklevinson.com\/",
+            "image": "shopify://shop_images/images.png",
+            "link": "https://www.marklevinson.com/",
             "open_in_new_tab": true
           }
         },
         "brand_h8tiQq": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/230-2305780-jbl-logo-black-and-white-png-download-jbl.png",
-            "link": "http:\/\/jblsynthesis.com\/",
+            "image": "shopify://shop_images/230-2305780-jbl-logo-black-and-white-png-download-jbl.png",
+            "link": "http://jblsynthesis.com/",
             "open_in_new_tab": true
           }
         },
         "brand_p8AVzP": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Audiovector_Logo_White.png",
-            "link": "https:\/\/audiovector.com\/",
+            "image": "shopify://shop_images/Audiovector_Logo_White.png",
+            "link": "https://audiovector.com/",
             "open_in_new_tab": true
           }
         },
         "brand_pt9bNY": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/atlascables.png",
-            "link": "https:\/\/www.atlascables.com\/",
+            "image": "shopify://shop_images/atlascables.png",
+            "link": "https://www.atlascables.com/",
             "open_in_new_tab": true
           }
         },
@@ -217,16 +217,16 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/aurender_3a348cd4-8b66-4bdf-9507-8f08c2a719ac.jpg",
-            "link": "https:\/\/aurender.com\/",
+            "image": "shopify://shop_images/aurender_3a348cd4-8b66-4bdf-9507-8f08c2a719ac.jpg",
+            "link": "https://aurender.com/",
             "open_in_new_tab": true
           }
         },
         "brand_j4D49J": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aa62aa03-4ddc-4ecb-accd-cfb6d71015a9.png",
-            "link": "https:\/\/no.harmankardon.com\/",
+            "image": "shopify://shop_images/logo_aa62aa03-4ddc-4ecb-accd-cfb6d71015a9.png",
+            "link": "https://no.harmankardon.com/",
             "open_in_new_tab": true
           }
         },
@@ -234,16 +234,16 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/ieast.png",
-            "link": "https:\/\/ieast.pl\/produkty\/",
+            "image": "shopify://shop_images/ieast.png",
+            "link": "https://ieast.pl/produkty/",
             "open_in_new_tab": true
           }
         },
         "brand_EeF7W8": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/isoacoustics.png",
-            "link": "https:\/\/isoacoustics.com\/",
+            "image": "shopify://shop_images/isoacoustics.png",
+            "link": "https://isoacoustics.com/",
             "open_in_new_tab": true
           }
         },
@@ -251,8 +251,8 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/lumin.png",
-            "link": "https:\/\/www.luminmusic.com\/",
+            "image": "shopify://shop_images/lumin.png",
+            "link": "https://www.luminmusic.com/",
             "open_in_new_tab": true
           }
         },
@@ -260,8 +260,8 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/parasound.jpg",
-            "link": "http:\/\/www.parasound.com\/",
+            "image": "shopify://shop_images/parasound.jpg",
+            "link": "http://www.parasound.com/",
             "open_in_new_tab": true
           }
         },
@@ -269,16 +269,16 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/rega_1.jpg",
-            "link": "http:\/\/www.rega.co.uk\/",
+            "image": "shopify://shop_images/rega_1.jpg",
+            "link": "http://www.rega.co.uk/",
             "open_in_new_tab": true
           }
         },
         "brand_Xmnhc9": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/revel_4c9bdb79-68aa-4fac-8999-d4cf5180cf1b.jpg",
-            "link": "https:\/\/www.revelspeakers.com\/",
+            "image": "shopify://shop_images/revel_4c9bdb79-68aa-4fac-8999-d4cf5180cf1b.jpg",
+            "link": "https://www.revelspeakers.com/",
             "open_in_new_tab": true
           }
         },
@@ -286,23 +286,23 @@
           "type": "brand",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/sonus-faber.jpg",
-            "link": "https:\/\/www.sonusfaber.com\/en\/",
+            "image": "shopify://shop_images/sonus-faber.jpg",
+            "link": "https://www.sonusfaber.com/en/",
             "open_in_new_tab": true
           }
         },
         "brand_NVPkne": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-velodyne-white.png",
-            "link": "https:\/\/www.velodyneacoustics.com\/en\/",
+            "image": "shopify://shop_images/logo-velodyne-white.png",
+            "link": "https://www.velodyneacoustics.com/en/",
             "open_in_new_tab": true
           }
         },
         "brand_Gf7Vfm": {
           "type": "brand",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_7e410a04-8686-42b1-89c7-398816b4f69d.png",
+            "image": "shopify://shop_images/logo_7e410a04-8686-42b1-89c7-398816b4f69d.png",
             "link": "",
             "open_in_new_tab": true
           }
