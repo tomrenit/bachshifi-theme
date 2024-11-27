@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -35,20 +35,12 @@
             "heading": "Bach's HiFi Produkter avd. Møre og Romsdal",
             "subtext": "<p>Vår lokale avdeling og demo-rom i Møre og Romsdal</p><p>Lidvegen 65<br/>6393 Tomrefjord<br/>Telefon: 458 63 504<br/>christoffer@bachshifi.no</p>"
           }
-        },
-        "text_d9QRbP": {
-          "type": "text",
-          "settings": {
-            "heading": "The Stereo Shop",
-            "subtext": "<p>Nettbutikk vår, sjekk den ut på:<br/> <a href=\"https://www.thestereoshop.no/\" target=\"_blank\" title=\"https://www.thestereoshop.no/\">https://www.thestereoshop.no/</a></p>"
-          }
         }
       },
       "block_order": [
         "text_9MeaRU",
         "text_jBzYKx",
-        "text_WYphmF",
-        "text_d9QRbP"
+        "text_WYphmF"
       ],
       "settings": {
         "color_scheme": "scheme-4",
