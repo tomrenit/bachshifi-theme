@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -21,7 +30,7 @@
         "text_zwz63q": {
           "type": "text",
           "settings": {
-            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk. ​Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.<\/p><p>Vår avdeling i Møre og Romsdal fungerer som vårt showroom og base for Christoffer som gjør hjemmebesøk, konsultasjon og kalibrering.<br\/><br\/>Forskjellen på god og dårlig lyd er noe alle kan høre. God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen.<br\/>Vi har produkter i alle prisklasser, som spenner fra bærbare systemer<br\/>til store High End systemer. ​Lidenskapen for kvalitetslyd har vært med fra starten.<br\/>God lyd og service står fortsatt i fokus!<\/p><p>I nyere tid har vi også startet nettbutikken <a href=\"https:\/\/www.thestereoshop.no\/\" target=\"_blank\" title=\"https:\/\/www.thestereoshop.no\/\">https:\/\/www.thestereoshop.no\/<\/a> hvor du kan enkelt kan handle hos oss døgnet rundt.<\/p><p><\/p>"
+            "text": "<p>Bachs Hi-Fi, The Stereo Shop er en frittstående spesialforretning for deg som er interessert i lyd og musikk. ​Butikken ble etablert i 1991 og holder til i Prinsegata 19, i Larvik. Fagkunnskap og kvalitet er våre stikkord, og målsetningen vår er å sette sammen lydsystemer av markedsledende kvalitetsmerker etter kundens behov.</p><p>Vår avdeling i Møre og Romsdal fungerer som vårt showroom og base for Christoffer som gjør hjemmebesøk, konsultasjon og kalibrering.<br/><br/>Forskjellen på god og dårlig lyd er noe alle kan høre. God lydkvalitet vil berike musikkopplevelsen, og gi deg musikalsk glede i hverdagen.<br/>Vi har produkter i alle prisklasser, som spenner fra bærbare systemer<br/>til store High End systemer. ​Lidenskapen for kvalitetslyd har vært med fra starten.<br/>God lyd og service står fortsatt i fokus!</p><p></p><p></p>"
           }
         }
       },
@@ -44,9 +53,9 @@
         "column_86nmzN": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image2-1.jpg",
+            "image": "shopify://shop_images/image2-1.jpg",
             "title": "Tom Bach",
-            "text": "<p>Som eier  og med utrolige 30 år i bransjen bestitter Tom en produktkunskap uten sidestykke. Alltid smilende i butikken og med sansen for et velspillende stereoanlegg. Stikk innom han i butikken da vel, den er proppfull av mye morsomt utstyr. Og vi er naturligvis klare til å gi deg en opplevelse du sent vil glemme!<\/p>",
+            "text": "<p>Som eier  og med utrolige 30 år i bransjen bestitter Tom en produktkunskap uten sidestykke. Alltid smilende i butikken og med sansen for et velspillende stereoanlegg. Stikk innom han i butikken da vel, den er proppfull av mye morsomt utstyr. Og vi er naturligvis klare til å gi deg en opplevelse du sent vil glemme!</p>",
             "link_label": "",
             "link": ""
           }
@@ -54,9 +63,9 @@
         "column_hVy6KR": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image1-1.jpg",
+            "image": "shopify://shop_images/image1-1.jpg",
             "title": "Christoffer Hansson",
-            "text": "<p>Med et hjerte for god film-lyd i flere kanaler og solid erfaring fra Soundgarden er Christoffer mannen som kan trylle frem en ekstrem kino opplevelse hjemme hos deg. Men vi må ikke glemme at han har meget god kompetanse også i stereo. Han styrer også vårt showrom utenfor Molde-Ålesund og kan kontaktes dersom det ønskes en demo.<\/p>",
+            "text": "<p>Med et hjerte for god film-lyd i flere kanaler og solid erfaring fra Soundgarden er Christoffer mannen som kan trylle frem en ekstrem kino opplevelse hjemme hos deg. Men vi må ikke glemme at han har meget god kompetanse også i stereo. Han styrer også vårt showrom utenfor Molde-Ålesund og kan kontaktes dersom det ønskes en demo.</p>",
             "link_label": "",
             "link": ""
           }
@@ -64,9 +73,9 @@
         "column_KtzNxC": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/image01.jpg",
+            "image": "shopify://shop_images/image01.jpg",
             "title": "Geir Arne Nilsen",
-            "text": "<p>Med solid erfaring på high-end og med bakgrunn fra Hifi-klubben er Geir Arne den mest nysgjerrige når det gjelder tekniske aspekter. Dette gjenspeilers seg også i bruk av analyse-verktøy for å få ditt lydsystem til å spille så optimalt som mulig. Lurer du på noen tekniske egenskaper på høyttalere eller elektronikk er dette mannen å ringe.<\/p>",
+            "text": "<p>Med solid erfaring på high-end og med bakgrunn fra Hifi-klubben er Geir Arne den mest nysgjerrige når det gjelder tekniske aspekter. Dette gjenspeilers seg også i bruk av analyse-verktøy for å få ditt lydsystem til å spille så optimalt som mulig. Lurer du på noen tekniske egenskaper på høyttalere eller elektronikk er dette mannen å ringe.</p>",
             "link_label": "",
             "link": ""
           }
