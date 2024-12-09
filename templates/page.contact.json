@@ -69,22 +69,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_KtzNxC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/image01.jpg",
-            "title": "Geir Arne Nilsen",
-            "text": "<p>Med solid erfaring på high-end og med bakgrunn fra Hifi-klubben er Geir Arne den mest nysgjerrige når det gjelder tekniske aspekter. Dette gjenspeilers seg også i bruk av analyse-verktøy for å få ditt lydsystem til å spille så optimalt som mulig. Lurer du på noen tekniske egenskaper på høyttalere eller elektronikk er dette mannen å ringe.</p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_86nmzN",
-        "column_hVy6KR",
-        "column_KtzNxC"
+        "column_hVy6KR"
       ],
       "settings": {
         "title": "Hvem er vi?",
