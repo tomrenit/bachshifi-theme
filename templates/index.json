@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Nyhet! JBL Stage 2 og JBL MA elektronikk!</strong>",
+            "heading": "<strong>Høyttalere for en hver smak.</strong>",
             "heading_size": "h0"
           }
         },
@@ -30,7 +30,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Les mer",
-            "button_link_1": "https://bachshifi.myshopify.com/blogs/news/",
+            "button_link_1": "shopify://collections/hoyttaler",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -44,7 +44,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/LS_JBL_Stage_2_280FWHT_InSituationGrillOff_PDPPage_00983.jpg",
+        "image": "shopify://shop_images/0806_r_3_01_070-scaled_4e62057d-c9d9-4d5f-84e1-385f81abd2ad.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "bottom-center",
