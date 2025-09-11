@@ -314,6 +314,14 @@
             "link": "",
             "open_in_new_tab": true
           }
+        },
+        "brand_mdP9mz": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/Ortofon_801e3a65-662a-4dbc-a875-7cacd269ad85.png",
+            "link": "",
+            "open_in_new_tab": true
+          }
         }
       },
       "block_order": [
@@ -333,7 +341,8 @@
         "brand_jNgnUT",
         "brand_NVPkne",
         "brand_JQzpL3",
-        "brand_Gf7Vfm"
+        "brand_Gf7Vfm",
+        "brand_mdP9mz"
       ],
       "settings": {
         "title": "Våre merker",
