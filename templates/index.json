@@ -299,10 +299,18 @@
             "open_in_new_tab": true
           }
         },
+        "brand_JQzpL3": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/Yamaha_2_83de0612-757b-4a82-8097-75a5ba3f4378.png",
+            "link": "",
+            "open_in_new_tab": true
+          }
+        },
         "brand_Gf7Vfm": {
           "type": "brand",
           "settings": {
-            "image": "shopify://shop_images/logo_7e410a04-8686-42b1-89c7-398816b4f69d.png",
+            "image": "shopify://shop_images/Pro_Ject_7b3bbacb-b66d-4707-9fbe-4be01f94e4fb.png",
             "link": "",
             "open_in_new_tab": true
           }
@@ -324,6 +332,7 @@
         "brand_Xmnhc9",
         "brand_jNgnUT",
         "brand_NVPkne",
+        "brand_JQzpL3",
         "brand_Gf7Vfm"
       ],
       "settings": {
