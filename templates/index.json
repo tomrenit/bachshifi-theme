@@ -293,6 +293,7 @@
         },
         "brand_NVPkne": {
           "type": "brand",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/logo-velodyne-white.png",
             "link": "https://www.velodyneacoustics.com/en/",
