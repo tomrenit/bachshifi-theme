@@ -317,6 +317,14 @@
             "open_in_new_tab": true
           }
         },
+        "brand_KqggMg": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/ROON_Complimentary_Subscription_Badge_BLACK.jpg",
+            "link": "",
+            "open_in_new_tab": true
+          }
+        },
         "brand_mdP9mz": {
           "type": "brand",
           "settings": {
@@ -344,6 +352,7 @@
         "brand_NVPkne",
         "brand_JQzpL3",
         "brand_Gf7Vfm",
+        "brand_KqggMg",
         "brand_mdP9mz"
       ],
       "settings": {
