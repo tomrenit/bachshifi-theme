@@ -1,9 +1,9 @@
-{% assign hasExternalInfo = false %}
+{% assign has_external_info = false %}
 {% if product.metafields.custom.produktlink.value != blank %}
-  {% assign hasExternalInfo = true %}
+  {% assign has_external_info = true %}
 {% endif %}
 {% if product.metafields.custom.brukermanual.value != blank %}
-  {% assign hasExternalInfo = true %}
+  {% assign has_external_info = true %}
 {% endif %}
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
@@ -33,7 +33,7 @@
               </details>
             </div>
           {% endif %}
-          {% if hasExternalInfo %}
+          {% if has_external_info %}
             <div
               class="accordion"
             >

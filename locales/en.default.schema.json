@@ -439,6 +439,66 @@
         "label": "Image shape"
       }
     },
+    "brands": {
+      "name": "Brands",
+      "settings": {
+        "title": {
+          "label": "Heading"
+        },
+        "image_width": {
+          "options__1": { "label": "One-third of column" },
+          "options__2": { "label": "Half of column" },
+          "options__3": { "label": "Full width" },
+          "label": "Image width"
+        },
+        "image_ratio": {
+          "options__1": { "label": "Adapt to image" },
+          "options__2": { "label": "Portrait" },
+          "options__3": { "label": "Square" },
+          "options__4": { "label": "Circle" },
+          "label": "Image ratio"
+        },
+        "columns_desktop": {
+          "label": "Number of columns on desktop"
+        },
+        "column_alignment": {
+          "options__1": { "label": "Left" },
+          "options__2": { "label": "Center" },
+          "label": "Column alignment"
+        },
+        "background_style": {
+          "options__1": { "label": "None" },
+          "options__2": { "label": "Primary" },
+          "label": "Background style"
+        },
+        "header_mobile": {
+          "content": "Mobile layout"
+        },
+        "columns_mobile": {
+          "options__1": { "label": "1 column" },
+          "options__2": { "label": "2 columns" },
+          "options__3": { "label": "3 columns" },
+          "options__4": { "label": "4 columns" },
+          "label": "Number of columns on mobile"
+        },
+        "swipe_on_mobile": {
+          "label": "Enable swipe on mobile"
+        }
+      },
+      "blocks": {
+        "column": {
+          "name": "Brand",
+          "settings": {
+            "image": { "label": "Image" },
+            "link": { "label": "Link" },
+            "open_in_new_tab": { "label": "Open in new tab" }
+          }
+        }
+      },
+      "presets": {
+        "name": "Brands"
+      }
+    },
     "announcement-bar": {
       "name": "Announcement bar",
       "settings": {
