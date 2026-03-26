@@ -20,7 +20,7 @@
               >
                 <summary id="Summary-links-{{ section.id }}">
                   <h3 class="accordion__title inline-richtext h4">Tekniske data</h3>
-                  {% render 'icon-caret' %}
+                  {{- 'icon-caret.svg' | inline_asset_content -}}
                 </summary>
                 <div
                   class="accordion__content rte"
@@ -42,7 +42,7 @@
               >
                 <summary id="Summary-links-{{ section.id }}">
                   <h3 class="accordion__title inline-richtext h4">Ekstern info</h3>
-                  {% render 'icon-caret' %}
+                  {{- 'icon-caret.svg' | inline_asset_content -}}
                 </summary>
                 <div
                   class="accordion__content rte"
