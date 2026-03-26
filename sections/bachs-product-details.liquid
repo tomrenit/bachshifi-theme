@@ -1,9 +1,9 @@
-{% assign hasExternalInfo = false %}
+{% assign has_external_info = false %}
 {% if product.metafields.custom.produktlink.value != blank %}
-  {% assign hasExternalInfo = true %}
+  {% assign has_external_info = true %}
 {% endif %}
 {% if product.metafields.custom.brukermanual.value != blank %}
-  {% assign hasExternalInfo = true %}
+  {% assign has_external_info = true %}
 {% endif %}
 
 <div class="color-{{ section.settings.color_scheme }} gradient">
@@ -20,7 +20,7 @@
               >
                 <summary id="Summary-links-{{ section.id }}">
                   <h3 class="accordion__title inline-richtext h4">Tekniske data</h3>
-                  {% render 'icon-caret' %}
+                  {{- 'icon-caret.svg' | inline_asset_content -}}
                 </summary>
                 <div
                   class="accordion__content rte"
@@ -33,7 +33,7 @@
               </details>
             </div>
           {% endif %}
-          {% if hasExternalInfo %}
+          {% if has_external_info %}
             <div
               class="accordion"
             >
@@ -42,7 +42,7 @@
               >
                 <summary id="Summary-links-{{ section.id }}">
                   <h3 class="accordion__title inline-richtext h4">Ekstern info</h3>
-                  {% render 'icon-caret' %}
+                  {{- 'icon-caret.svg' | inline_asset_content -}}
                 </summary>
                 <div
                   class="accordion__content rte"
