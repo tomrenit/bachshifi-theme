@@ -31,7 +31,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Les mer",
-            "button_link_1": "shopify://blogs/news",
+            "button_link_1": "shopify://blogs/ny-referanse-serie-fra-mark-levinson",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -45,7 +45,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/Skjermbilde_2026-04-27_065724.png",
+        "image": "shopify://shop_images/lifestyle_ML626-ML632_0003_thmb_34ea17d7-3fb6-4efa-ad81-944e9734d6f3.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "image_behavior": "none",
