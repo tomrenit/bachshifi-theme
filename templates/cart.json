@@ -17,6 +17,28 @@
         "padding_bottom": 36
       }
     },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "rich_text_ECAaqp": {
       "type": "rich-text",
       "blocks": {
@@ -39,28 +61,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "cart-footer": {
-      "type": "main-cart-footer",
-      "blocks": {
-        "subtotal": {
-          "type": "subtotal",
-          "settings": {}
-        },
-        "buttons": {
-          "type": "buttons",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "subtotal",
-        "buttons"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "rich_text_KrEpEH": {
@@ -106,6 +106,49 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_kqbzC7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_L3RKTi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maksbeløp i nettbutikken",
+            "heading_size": "h2"
+          }
+        },
+        "text_Jjaw4V": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Av sikkerhetsmessige og praktiske årsaker har vi satt en øvre kjøpsgrense på <strong>50 000 kr</strong> i nettbutikken.</p><p>Mange av produktene vi fører er svært spesielt og eksklusivt hi-fi-utstyr, hvor riktig rådgivning, levering, oppsett og betalingsløsning ofte bør avklares direkte med oss.</p><p></p>"
+          }
+        },
+        "button_t4QgAa": {
+          "type": "button",
+          "settings": {
+            "button_label": "Kontakt oss",
+            "button_link": "https://bachshifi.no/pages/om-oss",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_L3RKTi",
+        "text_Jjaw4V",
+        "button_t4QgAa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -137,9 +180,10 @@
   },
   "order": [
     "cart-items",
-    "rich_text_ECAaqp",
     "cart-footer",
+    "rich_text_ECAaqp",
     "rich_text_KrEpEH",
+    "rich_text_kqbzC7",
     "featured-collection"
   ]
 }
