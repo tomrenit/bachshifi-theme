@@ -17,6 +17,30 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_ECAaqp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4bFUjH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gratis frakt når du handler for over 2 000 kr.",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4bFUjH"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -37,34 +61,6 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "all",
-        "products_to_show": 4,
-        "title": "Featured collection",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "columns_desktop": 4,
-        "enable_desktop_slider": false,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "rich_text_KrEpEH": {
@@ -109,12 +105,41 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 4,
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "cart-items",
+    "rich_text_ECAaqp",
     "cart-footer",
-    "featured-collection",
-    "rich_text_KrEpEH"
+    "rich_text_KrEpEH",
+    "featured-collection"
   ]
 }
