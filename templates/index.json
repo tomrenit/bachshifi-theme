@@ -26,23 +26,11 @@
             "text": "",
             "text_style": "body"
           }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Les mer",
-            "button_link_1": "shopify://blogs/ny-referanse-serie-fra-mark-levinson",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "image": "shopify://shop_images/clp-600-series-hero-d.png",
