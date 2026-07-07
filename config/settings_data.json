@@ -11,7 +11,7 @@
   "current": {
     "logo": "{{ shop.brand.logo }}",
     "logo_width": 250,
-    "favicon": "shopify://shop_images/17834342326a4d0bf8bcb1f4790.png",
+    "favicon": "shopify://shop_images/Untitled_design_2.png",
     "type_header_font": "work_sans_n4",
     "heading_scale": 100,
     "type_body_font": "nunito_n4",
