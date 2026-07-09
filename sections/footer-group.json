@@ -11,6 +11,35 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "178363025568a15470": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_ac13573_GKpBfU": {
+          "type": "ai_gen_block_ac13573",
+          "settings": {
+            "heading": "Betal med Svea",
+            "text": "<p>Hos oss kan du betale trygt og enkelt med Svea. Velg mellom kortbetaling, faktura eller delbetaling i kassen, og finn den løsningen som passer best for deg.<br/><br/></p>",
+            "image": "shopify://shop_images/Svea_finans_RGB.png",
+            "desktop_width_percent": 100,
+            "mobile_layout": "row",
+            "image_width": 150,
+            "spacing": 20,
+            "padding": 30,
+            "background_color": "#f3f3f3",
+            "heading_color": "#121212",
+            "text_color": "#121212",
+            "heading_size": 24,
+            "text_size": 16,
+            "border_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_ac13573_GKpBfU"
+      ],
+      "settings": {}
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -33,7 +62,7 @@
           "type": "text",
           "settings": {
             "heading": "Bach's HiFi Produkter avd. Møre og Romsdal",
-            "subtext": "<p>Vår lokale avdeling og demo-rom i Møre og Romsdal</p><p>Lidvegen 65<br/>6393 Tomrefjord<br/>Telefon: 458 63 504<br/>christoffer@bachshifi.no</p><p><strong>Ta kontakt for demo</strong></p><p><strong>Orgnummer: 959980187</strong><a href=\"/pages/retur-angrerett-og-reklamasjon\" target=\"_blank\" title=\"Retur, angrerett og reklamasjon\"><strong><br/>Retur, angrerett og reklamasjon</strong></a></p><p><a href=\"/pages/kjopsvilkar\" target=\"_blank\" title=\"kjøpsvilkår\"><strong>Kjøpsvilkår </strong></a><br/><br/><a href=\"/pages/retur-angrerett-og-reklamasjon\" target=\"_blank\" title=\"Retur, angrerett og reklamasjon\"><strong><br/><br/></strong></a></p>"
+            "subtext": "<p>Vår lokale avdeling og demo-rom i Møre og Romsdal</p><p>Lidvegen 65<br/>6393 Tomrefjord<br/>Telefon: 458 63 504<br/>christoffer@bachshifi.no</p><p><strong>Ta kontakt for demo</strong></p><p><strong>Orgnummer: 959980187</strong><a href=\"/pages/retur-angrerett-og-reklamasjon\" target=\"_blank\" title=\"Retur, angrerett og reklamasjon\"><strong><br/>Retur, angrerett og reklamasjon</strong></a></p><p><a href=\"/pages/kjopsvilkar\" target=\"_blank\" title=\"kjøpsvilkår\"><strong>Kjøpsvilkår </strong></a></p><p><br/><br/><a href=\"/pages/retur-angrerett-og-reklamasjon\" target=\"_blank\" title=\"Retur, angrerett og reklamasjon\"><strong><br/><br/></strong></a></p>"
           }
         }
       },
@@ -59,6 +88,7 @@
     }
   },
   "order": [
+    "178363025568a15470",
     "footer"
   ]
 }
