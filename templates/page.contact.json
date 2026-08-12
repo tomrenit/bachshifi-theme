@@ -55,7 +55,7 @@
           "settings": {
             "image": "shopify://shop_images/image2-1.jpg",
             "title": "Tom Bach",
-            "text": "<p>Som eier  og med utrolige 30 år i bransjen bestitter Tom en produktkunskap uten sidestykke. Alltid smilende i butikken og med sansen for et velspillende stereoanlegg. Stikk innom han i butikken da vel, den er proppfull av mye morsomt utstyr. Og vi er naturligvis klare til å gi deg en opplevelse du sent vil glemme!</p>",
+            "text": "<p>Som eier  og med utrolige 35 år i bransjen bestitter Tom en produktkunskap uten sidestykke. Alltid smilende i butikken og med sansen for et velspillende stereoanlegg. Stikk innom han i butikken da vel, den er proppfull av mye morsomt utstyr. Og vi er naturligvis klare til å gi deg en opplevelse du sent vil glemme!</p>",
             "link_label": "",
             "link": ""
           }
@@ -81,11 +81,11 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "circle",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
